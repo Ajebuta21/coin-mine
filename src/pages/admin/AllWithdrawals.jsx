@@ -46,7 +46,7 @@ const AllWithdrawals = () => {
       <div className="w-full flex flex-col gap-2">
         <Link
           to="/the-site/admin/all-withdraw-als/1"
-          className="w-full p-1 shadow-md border grid grid-cols-4 gap-1 max-sm:text-xs"
+          className="w-full p-1 grid grid-cols-4 gap-1 max-sm:text-xs"
         >
           <div className="w-full h-full flex justify-start items-center">
             -$2,650
@@ -61,7 +61,7 @@ const AllWithdrawals = () => {
             12/06/2023 at 06:43AM
           </div>
         </Link>
-        <div className="w-full p-1 shadow-md border grid grid-cols-4 gap-1 max-sm:text-xs">
+        <div className="w-full p-1 grid grid-cols-4 gap-1 max-sm:text-xs">
           <div className="w-full h-full flex justify-start items-center">
             -$150
           </div>
@@ -75,7 +75,7 @@ const AllWithdrawals = () => {
             09/06/2023 at 01:39PM
           </div>
         </div>
-        <div className="w-full p-1 shadow-md border grid grid-cols-4 gap-1 max-sm:text-xs">
+        <div className="w-full p-1 grid grid-cols-4 gap-1 max-sm:text-xs">
           <div className="w-full h-full flex justify-start items-center">
             -$7,289
           </div>

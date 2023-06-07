@@ -46,7 +46,7 @@ const AllDeposits = () => {
       <div className="w-full flex flex-col gap-2">
         <Link
           to="/the-site/admin/all-depo-sits/1"
-          className="w-full p-1 shadow-md border grid grid-cols-4 gap-1 max-sm:text-xs"
+          className="w-full p-1 grid grid-cols-4 gap-1 max-sm:text-xs"
         >
           <div className="w-full h-full flex justify-start items-center">
             +$22,650
@@ -61,7 +61,7 @@ const AllDeposits = () => {
             21/06/2023 at 11:05PM
           </div>
         </Link>
-        <div className="w-full p-1 shadow-md border grid grid-cols-4 gap-1 max-sm:text-xs">
+        <div className="w-full p-1 grid grid-cols-4 gap-1 max-sm:text-xs">
           <div className="w-full h-full flex justify-start items-center">
             +$11,650
           </div>
@@ -75,7 +75,7 @@ const AllDeposits = () => {
             21/06/2023 at 11:05PM
           </div>
         </div>
-        <div className="w-full p-1 shadow-md border grid grid-cols-4 gap-1 max-sm:text-xs">
+        <div className="w-full p-1 grid grid-cols-4 gap-1 max-sm:text-xs">
           <div className="w-full h-full flex justify-start items-center">
             +$1,650
           </div>
